@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/42-white?style=social&logoColor=black"/>
+<img src="https://img.shields.io/badge/white?style=social&logo=42&logoColor=black"/>
 
 
