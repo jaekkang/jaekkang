@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **jaekkang/jaekkang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/white?style=social&logo=42&logoColor=#000000"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaekkang&show_icons=true&theme=radical)
+<p align = "center"> jaekkang's Github page </p>
+<p align = "center">
+  <img src="https://img.shields.io/badge/42seoul-000000?style=flat-square&logo=42&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/42seoul-000000?style=flat-square&logo=42&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/42seoul-000000?style=flat-square&logo=42&logoColor=ffffff"/>
+</p>
+
+![jaekkang's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaekkang&show_icons=true&theme=radical)
