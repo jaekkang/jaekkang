@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=ffffff"/>
 </p>
+
 <p align = "center">
   <img src="https://github-readme-stats.vercel.app/api?username=jaekkang&show_icons=true&theme=radical"/>
 </p>
