@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/white?style=social&logo=42&logoColor=black"/>
+<img src="https://img.shields.io/badge/white?style=social&logo=42&logoColor=#000000"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaekkang&show_icons=true&theme=radical)
