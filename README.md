@@ -19,7 +19,9 @@
 </p>
 
 <p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaekkang&show_icons=true&theme=radical"/>
+  <a href="https://google.com">
+    <img src="https://github-readme-stats.vercel.app/api?username=jaekkang&show_icons=true&theme=radical"/>
+  </a>
 </p>
 
 
