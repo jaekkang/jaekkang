@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 -->
 
 
-<p align = "center"> jaekkang's Github page </p>
+<p align = "center">
+  jaekkang's Github page
+</p>
 <p align = "center">
   <img src="https://img.shields.io/badge/42seoul-000000?style=flat-square&logo=42&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/42seoul-000000?style=flat-square&logo=42&logoColor=ffffff"/>
@@ -23,3 +25,5 @@ Here are some ideas to get you started:
 </p>
 
 ![jaekkang's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaekkang&show_icons=true&theme=radical)
+
+
