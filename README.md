@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/white?style=social&logo=42&logoColor=black"/>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical)
 
