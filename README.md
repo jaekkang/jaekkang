@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=jaekkang's%20GitHub&fontSize=90)
 
 <p align = "center">
-  My interesting in : 
+  My interestied in : 
 </p>
 <p align = "center">
   <img src="https://img.shields.io/badge/42seoul-000000?style=flat-square&logo=42&logoColor=ffffff"/>
