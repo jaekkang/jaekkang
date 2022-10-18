@@ -7,7 +7,11 @@
 <p align = "center">
   <img src="https://img.shields.io/badge/42seoul-000000?style=flat-square&logo=42&logoColor=ffffff"/>
 </p>
-<a href="https://wakatime.com/badge/user/9bf39f5e-ce6b-47f6-9b8f-3a723d7b76ee/project/295c84dc-50c8-4873-9cc9-62ede95ca7b6"><img src="https://wakatime.com/badge/user/9bf39f5e-ce6b-47f6-9b8f-3a723d7b76ee/project/295c84dc-50c8-4873-9cc9-62ede95ca7b6.svg" alt="wakatime"></a>
+<p align = "center">
+  <a href="https://wakatime.com/badge/user/9bf39f5e-ce6b-47f6-9b8f-3a723d7b76ee/project/295c84dc-50c8-4873-9cc9-62ede95ca7b6">
+    <img src="https://wakatime.com/badge/user/9bf39f5e-ce6b-47f6-9b8f-3a723d7b76ee/project/295c84dc-50c8-4873-9cc9-62ede95ca7b6.svg" alt="wakatime">
+  </a>
+</p>
 <p align = "center">
   My interestied in : 
 </p>
