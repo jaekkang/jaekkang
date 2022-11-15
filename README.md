@@ -26,10 +26,10 @@
   </a>
 </p>
 
-<p align = "center">
-  <a href="https://google.com">
-    <img width = "100%" src="https://github-readme-stats.vercel.app/api?username=jaekkang&show_icons=true&theme=radical&count_private=true"/>
-  </a>
+<p width="100%">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=jaekkang&show_icons=true&include_all_commits=true&theme=cobalt&show_icons=true">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaekkang&layout=compact&theme=cobalt&show_icons=true">
+</p>
 
 </p>
 
@@ -37,10 +37,6 @@
   <img width = "100%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdwornjs123">
 </p>
 
-<p width="100%">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=jaekkang&show_icons=true&include_all_commits=true&theme=cobalt&show_icons=true">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaekkang&layout=compact&theme=cobalt&show_icons=true">
-</p>
 
 
 
