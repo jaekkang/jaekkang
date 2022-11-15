@@ -27,13 +27,13 @@
   <a href="https://google.com">
     <img src="https://github-readme-stats.vercel.app/api?username=jaekkang&show_icons=true&theme=radical&count_private=true"/>
   </a>
+  <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdwornjs123">
 </p>
 
 <p align = "center">
   <a href="https://github.com/JaeSeoKim/badge42">
     <img src="https://badge42.vercel.app/api/v2/clai3ywzt00540fk86xq7hqbi/stats?cursusId=21&coalitionId=87" alt="jaekkang's 42 stats" />
   </a>
-  <img height="200em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdwornjs123">
 </p>
 
 
