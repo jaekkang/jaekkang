@@ -53,7 +53,7 @@
 </p>
 
 <p align = "center">
-  <img width = "100%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdwornjs123">
+  <img width = "60%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdwornjs123">
 </p>
 
 
