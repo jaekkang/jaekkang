@@ -38,8 +38,8 @@
 </p>
 
 <p>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jaekkang&show_icons=true&include_all_commits=true&theme=cobalt&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaekkang&layout=compact&theme=cobalt&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jaekkang&show_icons=true&include_all_commits=true&theme=cobalt&show_icons=true">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaekkang&layout=compact&theme=cobalt&show_icons=true">
 </p>
 
 
