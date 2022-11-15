@@ -22,19 +22,19 @@
 
 <p align = "center">
   <a href="https://github.com/JaeSeoKim/badge42">
-    <img height="300em" src="https://badge42.vercel.app/api/v2/clai3ywzt00540fk86xq7hqbi/stats?cursusId=21&coalitionId=87" alt="jaekkang's 42 stats" />
+    <img width = "100%" src="https://badge42.vercel.app/api/v2/clai3ywzt00540fk86xq7hqbi/stats?cursusId=21&coalitionId=87" alt="jaekkang's 42 stats" />
   </a>
 </p>
 
 <p align = "center">
   <a href="https://google.com">
-    <img height="300em" src="https://github-readme-stats.vercel.app/api?username=jaekkang&show_icons=true&theme=radical&count_private=true"/>
+    <img width = "100%" src="https://github-readme-stats.vercel.app/api?username=jaekkang&show_icons=true&theme=radical&count_private=true"/>
   </a>
 
 </p>
 
 <p align = "center">
-  <img height="300em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdwornjs123">
+  <img width = "100%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdwornjs123">
 </p>
 
 
