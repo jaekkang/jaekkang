@@ -1,17 +1,14 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=jaekkang's%20GitHub&fontSize=90)
 
-<p align = "center">
+<p align = "center" justifyContent = "center">
   Study now : 
-</p>
-<p align = "center">
   <img src="https://img.shields.io/badge/42seoul-000000?style=flat-square&logo=42&logoColor=ffffff"/>
-</p>
-<p align = "center">
   <a href="https://wakatime.com/badge/user/9bf39f5e-ce6b-47f6-9b8f-3a723d7b76ee/project/295c84dc-50c8-4873-9cc9-62ede95ca7b6">
     <img src="https://wakatime.com/badge/user/9bf39f5e-ce6b-47f6-9b8f-3a723d7b76ee/project/295c84dc-50c8-4873-9cc9-62ede95ca7b6.svg" alt="wakatime">
   </a>
 </p>
+
 <p align = "center">
   My interestied in : 
 </p>
@@ -25,14 +22,17 @@
 
 <p align = "center">
   <a href="https://google.com">
-    <img src="https://github-readme-stats.vercel.app/api?username=jaekkang&show_icons=true&theme=radical&count_private=true"/>
+    <img height="300em" src="https://github-readme-stats.vercel.app/api?username=jaekkang&show_icons=true&theme=radical&count_private=true"/>
   </a>
-  <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdwornjs123">
+
 </p>
 
 <p align = "center">
+  <img height="300em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdwornjs123">
+</p>
+<p align = "center">
   <a href="https://github.com/JaeSeoKim/badge42">
-    <img src="https://badge42.vercel.app/api/v2/clai3ywzt00540fk86xq7hqbi/stats?cursusId=21&coalitionId=87" alt="jaekkang's 42 stats" />
+    <img height="300em" src="https://badge42.vercel.app/api/v2/clai3ywzt00540fk86xq7hqbi/stats?cursusId=21&coalitionId=87" alt="jaekkang's 42 stats" />
   </a>
 </p>
 
