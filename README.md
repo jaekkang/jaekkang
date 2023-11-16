@@ -20,31 +20,6 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=ffffff"/>
 </p>
 
-<p align = "center">
-  <a href="https://github.com/JaeSeoKim/badge42">
-    <img width = "100%" src="https://badge42.vercel.app/api/v2/clai3ywzt00540fk86xq7hqbi/stats?cursusId=21&coalitionId=87" alt="jaekkang's 42 stats" />
-  </a>
-</p>
-
-<p>
-  Libft : 
-  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clai3ywzt00540fk86xq7hqbi/project/2647663" alt="jaekkang's 42 Libft Score" /></a>
-</p>
-
-<p>
-  ft_printf : 
-  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clai3ywzt00540fk86xq7hqbi/project/2665891" alt="jaekkang's 42 ft_printf Score" /></a>
-</p>
-
-<p>
-  Born2beroot : 
-  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clai3ywzt00540fk86xq7hqbi/project/2668728" alt="jaekkang's 42 Born2beroot Score" /></a>
-<p>
-  So_long : 
-  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clai3ywzt00540fk86xq7hqbi/project/2789014" alt="jaekkang's 42 so_long Score" /></a>
-</p>
-
-
 <p width="100%">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=jaekkang&show_icons=true&include_all_commits=true&theme=cobalt&show_icons=true">
   <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaekkang&layout=compact&theme=cobalt&show_icons=true">
