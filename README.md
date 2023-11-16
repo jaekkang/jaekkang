@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff"/>
 </p>
 
-<p width="100%">
+<p align= "center" width="100%">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=jaekkang&show_icons=true&include_all_commits=true&theme=cobalt&show_icons=true">
   <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaekkang&layout=compact&theme=cobalt&show_icons=true">
 </p>
